@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <!--
 **eunsuu1015/eunsuu1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=eunsuu1015&show_icons=true&hide_border=true)](https://github.com/eunsuu1015)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunsuu1015&layout=compact)](https://github.com/eunsuu1015)
